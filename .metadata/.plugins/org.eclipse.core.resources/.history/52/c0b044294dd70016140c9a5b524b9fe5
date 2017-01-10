@@ -11,6 +11,5 @@ public class Operaciones {
 		int result = a-b;
 		System.out.println("Resultado de la resta " + a + "-" + b + ":" + result);
 		return result;
-		//Añadido un comentario de prueba
 	}
 }
