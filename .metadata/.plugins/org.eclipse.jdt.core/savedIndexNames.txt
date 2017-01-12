@@ -5,11 +5,10 @@ INDEX VERSION 1.129+E:\Universidad16-17\Primer Cuatrimestre\EGC\Repositorio\.met
 486699731.index
 2017505986.index
 188619105.index
-2931093424.index
 2927524569.index
 3119455041.index
-1847969816.index
 3878457715.index
+1847969816.index
 1904741536.index
 375126478.index
 2831536327.index
