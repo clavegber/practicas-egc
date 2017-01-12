@@ -26,7 +26,8 @@
 	<dependency>
     		<groupId>ldapsdk</groupId>
     		<artifactId>ldapsdk</artifactId>
-    		<version>4.1</version>  					<systemPath>${basedir}/src/main/resources/ldapsdk-4.1.jar		</systemPath>
+    		<version>4.1</version>  					
+		<systemPath>${basedir}/src/main/resources/ldapsdk-4.1.jar</systemPath>
     		<scope>system</scope>
 	</dependency>
   </dependencies>
