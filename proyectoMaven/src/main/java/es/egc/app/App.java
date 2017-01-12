@@ -12,7 +12,7 @@ public class App
     }
 
 	static int getVal(){
-return 1;
+		return 1;
 }
 
 }
