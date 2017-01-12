@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+	static int getVal(){
+return 1;
 }
+
+}
+
